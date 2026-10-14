@@ -14,3 +14,5 @@ frontend/.env
 backend/.env
 
 .expo/
+frontend_git_backup_20261014/
+frontend/android/app/debug.keystore
